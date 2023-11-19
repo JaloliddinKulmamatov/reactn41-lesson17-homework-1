@@ -1,0 +1,13 @@
+.footer__start__img {
+    display: flex;
+}
+
+.footer__ul {
+    margin-bottom: 40px;
+}
+
+.footer__li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
